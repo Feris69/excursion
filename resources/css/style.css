@@ -18,7 +18,7 @@ body {
     color: aquamarine;
 
 }
-.travel-guide {
+.Travel-guide {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
     font-size: 42px;
@@ -29,4 +29,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray;
+}
+
+.footer-mark {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
 }
